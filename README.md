@@ -1,2 +1,2 @@
 # API-LOG
-Trabalho API - Logística 2º SEM 
+Trabalho API - Logística realizado no 1º Semestre.
