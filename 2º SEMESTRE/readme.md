@@ -10,7 +10,10 @@ Tecnologias utilizadas: Phyton, Jira e Github.
 
 Desafios: Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
 
-Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/cdec5090-121a-4b9f-b16f-ac80fa55e876)
+
+
+                **Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.**
 
 ![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/6252938f-e6af-4669-b656-b329de224d56)
 ![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/f5f02121-cc04-4689-ad54-82d708b2874d)
