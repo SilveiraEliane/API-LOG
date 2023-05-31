@@ -1,6 +1,6 @@
-API DO CURSO DE LOGÍSTICA, DA TURMA DO 2° SEMESTRE (1° Semestre de 2023).
+**API DO CURSO DE LOGÍSTICA, DA TURMA DO 2° SEMESTRE** (1° Semestre de 2023).
 
-Para acompanhar a organização do projeto no Jira, [clique aqui!](https://apilog.atlassian.net/jira/software/projects/PFRRV/boards/2/backlog)
+Desenvolvimento do projeto no **JIRA**, [clique aqui!](https://apilog.atlassian.net/jira/software/projects/PFRRV/boards/2/backlog)
 
 ![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/fb8c60eb-0b94-45de-b457-3410808d323a)
 
