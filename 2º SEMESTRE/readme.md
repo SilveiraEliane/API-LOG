@@ -4,44 +4,105 @@
 
 
 
-**DESENVOLVIMENTO DO PROJETO JIRA**, [clique aqui!](https://apilog.atlassian.net/jira/software/projects/PFRRV/boards/2/backlog)
 
 
-
-👩‍💻 Equipe
+👩‍💻 **EQUIPE**
 
 ![TEAM](https://github.com/SilveiraEliane/API-LOG/assets/134539033/b9ef16df-50aa-4797-ab75-d78b5d3099d9)
 
-   
+  **DESENVOLVIMENTO DO PROJETO JIRA**, [clique aqui!](https://apilog.atlassian.net/jira/software/projects/PFRRV/boards/2/backlog)
+ 
 
 **ÍNDICE**
 
-📑HISTÓRIA DO PROJETO
+📑HISTÓRIA DO PROJETO;
 
-📑Contexto e Objetivos do Projeto
+📑Objetivos do Projeto;
 
-📑Funcionalidades do Projeto
+📑Funcionalidades do Projeto;
 
-📑Metodologias Utilizadas
+📑Descrição do Projeto;
 
-📑Plano de Entrega
+📑Tecnologias Utilizadas;
 
-📑Glossário
+📑Metodologias Utilizadas;
 
-📑Resultado das Análises
+📑Resultado das Análises.
 
-📑Cronograma
-
-📑Autores
 
 🚀**HISTÓRIA DO PROJETO**
 
-O grupo RM Vale Logística em seu trabalho de Projeto Integrador, realizou um estudo sobre a malha ferroviária brasileira, posteriormente fez-se a escolha de uma empresa sob concessão, MRS, escolheu-se o trecho e o produto a ser estudado, trecho São Silvestre (Jacareí) à Santos e o produto celulose.
+O grupo RM Vale Logística em seu trabalho de Projeto Integrador, realizou um estudo sobre a malha ferroviária brasileira, posteriormente fez-se a escolha de uma empresa sob concessão, MRS, escolheu-se o trecho e o produto a ser estudado, trecho São Silvestre (Jacareí) à Santos e produto celulose.
+
+**🎯 OBJETIVO**
+
+Identificar Fatores que influenciam no transporte ferroviário regional e que impulsionam a economia local e agregam valor ao PIB.
+ 
 
 
-📚**CONTEXTO**
+**🔨FUNCIONALIDADE DO PROJETO**
 
-MAPA FERROVIÁRIO NO BRASIL
+*Funcionalidade 1*: Estudo da Malha Ferroviária no Brasil;
+
+*Funcionalidade 2*: Escolha da empresa concessionária;
+
+*Funcionalidade 3*: Escolha e detalhamento da malha ferroviária;
+
+*Funcionalidade 4*: Escolha e análise do produto;
+
+*Funcionalidade 5*: Análise da exportação do produto;
+
+*Funcionalidade 6*: Estudo das variáveis de influência na exportação de celulose;
+
+
+📖**DESCRIÇÃO DO PROJETO**:
+
+Estudo da Cadeia Logística RMVALE no transporte ferroviário, concessionária MRS Malha sudeste, especificamente São Paulo.
+
+
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/823d0cad-51f2-4275-91ed-46253a27bec4)
+
+Exportação de Celulose e papel
+Mensal 2008-2023 Milhões US$
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/2eab20e8-2c76-4c1e-b7d2-417da3f51472)
+
+Exportação de Celulose e papel
+Anual 1996-2023 Milhões US$
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/b782139e-9837-471e-836e-1931a04d91f8)
+
+![variáveis](https://github.com/SilveiraEliane/API-LOG/assets/134539033/04a22ab0-8568-4079-b2d0-660c5a2a6d7d)
+
+
+
+💻**TECNOLOGIAS UTILIZADAS:** 
+
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/3e8ceb4c-e51b-442b-9c61-a2e86e7ad2aa)
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/ff5260df-7e61-4a59-8925-3d2943d646a3)
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/42b02302-ca4a-4fb4-b6d9-a248343703b1)
+
+
+
+
+📊**Metodologia Utilizada**
+
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/1a8837d6-b45f-4d79-bd4d-d4b0d462c336)
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/339ebb44-9a16-4b06-a5ee-e8fa33bd3f02)
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/2856ee21-b2ec-4785-a980-4b0e8e7968a5)
+
+
+                **Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.**
+
+👨‍💻**Desafios:**
+
+Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
+
+
+
+📚**CURIOSIDADES DO TRANSPORTE FERROVIÁRIO NO BRASIL**
+
+O que é TU e TKU, [clique aqui!](https://www.youtube.com/watch?v=JMpptuXtd3Y&t=99s)
+
+*MAPA FERROVIÁRIO NO BRASIL*
 
 Com mais de 31 mil km, as ferrovias das empresas associadas à ANTF conectam o Quadrilátero Ferrífero, no sul de Minas Gerais, e outros centros de mineração e siderurgia, além dos maiores polos industriais e áreas agrícolas aos principais portos brasileiros, entre eles, os de Santos, no estado de São Paulo, de Itaqui, no Maranhão, Vitória, no Espírito Santo, e o do Rio de Janeiro. Confira abaixo cada uma das malhas atualmente em operação.
 
@@ -133,57 +194,9 @@ Fonte:(https://digital.intermodal.com.br/modais/ferrovias-no-brasil-avancos-e-ob
 
 
 
-**🎯 OBJETIVO**
+📃**Autora** 
 
-Identificar Fatores que influenciam no transporte ferroviário regional que impulsionam a economia local e agregma valor ao PIB
- 
-
-
-**🔨FUNCIONALIDADE DO PROJETO**
-
-*Funcionalidade 1*: Estudo da Malha Ferroviária no Brasil;
-
-*Funcionalidade 2*: Escolha da empresa concessionária;
-
-*Funcionalidade 3*: Escolha e detalhamento da malha ferroviária;
-
-*Funcionalidade 4*: Escolha e análise do produto a ser estudado;
-
-*Funcionalidade 5*: Análise da exportação do produto;
-
-*Funcionalidade 6*: Estudo das variáveis de influência na exportação de celulose;
-
-
-📖**DESCRIÇÃO DO PROJETO**:
-
-Estudo da Cadeia Logística RMVALE no transporte ferroviário, concessionária MRS Malha sudeste, especificamente São Paulo.
-
-
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/823d0cad-51f2-4275-91ed-46253a27bec4)
-
-Exportação de Celulose e papel
-Mensal 2008-2023 Milhões US$
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/2eab20e8-2c76-4c1e-b7d2-417da3f51472)
-
-Exportação de Celulose e papel
-Anual 1996-2023 Milhões US$
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/b782139e-9837-471e-836e-1931a04d91f8)
-
-![variáveis](https://github.com/SilveiraEliane/API-LOG/assets/134539033/04a22ab0-8568-4079-b2d0-660c5a2a6d7d)
-
-
-💻**TECNOLOGIAS UTILIZADAS:** 
-
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/3e8ceb4c-e51b-442b-9c61-a2e86e7ad2aa)
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/ff5260df-7e61-4a59-8925-3d2943d646a3)
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/42b02302-ca4a-4fb4-b6d9-a248343703b1)
-
-
-
-
-👨‍💻**Desafios:**
-
-Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/1d8a1854-db31-4ed8-af21-3c005b28b552)
 
 
 
@@ -191,14 +204,5 @@ Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
 
 
 
-                **Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.**
-
-
-
-
-
-
-O que é TU e TKU, [clique aqui!](https://www.youtube.com/watch?v=JMpptuXtd3Y&t=99s)
-
-***PROJETO EM DESENVOLVIMENTO***
+***ELIANE DA SILVEIRA***
 
