@@ -3,6 +3,17 @@
 ![logo](https://github.com/SilveiraEliane/API-LOG/assets/134539033/287ca07c-6cc6-4fa4-a403-822da6ced04a)
 
 
+
+**DESENVOLVIMENTO DO PROJETO JIRA**, [clique aqui!](https://apilog.atlassian.net/jira/software/projects/PFRRV/boards/2/backlog)
+
+
+
+👩‍💻 Equipe
+
+![TEAM](https://github.com/SilveiraEliane/API-LOG/assets/134539033/b9ef16df-50aa-4797-ab75-d78b5d3099d9)
+
+   
+
 **ÍNDICE**
 
 📑HISTÓRIA DO PROJETO
@@ -36,15 +47,95 @@ Com mais de 31 mil km, as ferrovias das empresas associadas à ANTF conectam o Q
 
 ![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/aa5add55-f241-4337-93c2-0438144f4757)
 
+**Ferrovias no Brasil: avanços e obstáculos para esse meio de transporte em nosso território**
+
+Mesmo apresentando grande potencial logístico, as ferrovias no Brasil ainda são pouco utilizadas pelo governo e por empresas privadas. Segundo a Associação Nacional dos Transportadores Ferroviários (ANTF), o modal só corresponde a 15% de todo o transporte de carga do país.
+O baixo investimento nas linhas férreas é sempre um ponto de discussão em palestras, reuniões e eventos logísticos. Investidores e profissionais do mercado questionam os motivos do Brasil ter uma malha ferroviária tão aquém de suas possibilidades em termos territoriais, e como mudar esse panorama em prol do avanço logístico nacional. 
+
+
+**Por que, quando falamos de transporte ferroviário, nosso país ainda está tão atrás em relação a outras nações de dimensões e economias semelhantes?**
+
+**O que pode ser feito para melhorar a situação das ferrovias no Brasil? Quais são os benefícios logísticos dessas melhorias?**
+
+**Por que o Brasil tem uma malha ferroviária menor do que as de outros países de dimensões semelhantes?**
+
+
+O alcance das ferrovias no Brasil ainda é irrisório quando considerarmos o tamanho de nosso país. A extensão total da nossa malha atual é de 29 mil km. Os Estados Unidos, por exemplo, contam com mais de 295 mil km de linha férrea, ficando em primeiro lugar no mundo. 
+
+
+Também ficamos muito atrás em comparação com países europeus de grandes dimensões. Na Rússia, que também tem proporções continentais, o modal ferroviário corresponde a 81% de toda a carga de transportes do país. 
+
+
+**Mas por que isso acontece? Por que a malha ferroviária no Brasil é tão pequena?**
+
+
+As respostas podem ser encontradas na história do transporte nacional. 
+A construção de ferrovias no Brasil começou no século XIX, com a primeira linha sendo inaugurada no Rio de Janeiro, em 1854.
+Naquela época, havia o entendimento de que o modal ferroviário era uma das melhores opções, tanto para o transporte de passageiros quanto para a movimentação de cargas.
+A expansão continuou até a segunda década do século XX. 
+Os investimentos começaram a diminuir a partir do governo do presidente Washington Luís, em 1930.
+Sendo um incentivador assumido do transporte rodoviário, ele focou na construção de estradas e preteriu a continuidade da malha ferroviária.
+Alguns de seus sucessores, como Getúlio Vargas e Juscelino Kubitschek, seguiram pelo mesmo caminho.
+Na época, as montadoras de automóveis começavam a chegar ao Brasil, e os presidentes enxergavam na construção de novas rodovias o melhor incentivo para trazer outras empresas. 
+Todavia, foi entre as décadas de 60 e 80, durante o regime militar, que a malha ferroviária foi praticamente desconsiderada. 
+Os militares acreditavam que o investimento nas ferrovias no Brasil era desnecessário; então, cortaram gastos e priorizaram somente o modal rodoviário. 
+O que resultou numa malha bastante sucateada, ineficiente e, em muitos casos, totalmente inútil à época da privatização [1997], quando as concessionárias começaram suas operações".
+
+
+**O que pode ser feito para melhorar o transporte ferroviário no Brasil?**
+
+
+Continuar os investimentos iniciados no século XIX.
+Mas isso é algo que todos sabem desde aquela época, e nem por isso houve grandes melhorias nas ferrovias do Brasil. 
+Portanto, agora, abraçar a obviedade está longe de ser a solução do problema. Afinal, já se passaram quase 100 anos desde que o presidente Washington Luís deixou de investir na expansão ferroviária. 
+
+
+É claro que a melhoria da malha ferroviária brasileira passa, em geral, por investimentos do Governo Federal, assim como incentivos estaduais e municipais, além da atuação do setor privado pelo avanço do modal ferroviário. Mas essas ações devem ser realizadas com cautela e inteligência. A aplicação financeira aleatória não trará os resultados esperados. 
+É preciso um projeto para identificar os traçados que passam por polos de produção nacional, ligando-os aos nossos portos. Já existem algumas linhas nesses pontos, necessitando apenas de reformas. Já outros trechos precisarão da criação de novas linhas ou ampliações significativas. 
+
+
+O segundo passo no investimento seria se concentrar na construção de uma malha ferroviária que atravessasse o Brasil de norte a sul — pelo interior. Uma conexão que alavancaria de vez o modal no país cruzando de forma mais rápida e menos custosa rotas que demonstram um maior grau de complexidade para o modal rodoviário. 
+Mas a participação do governo não se resume ao investimento financeiro. Ainda de acordo com Largman, o Estado tem como melhorar essa situação estimulando a iniciativa privada.
+
+
+**Como a expansão das ferrovias no Brasil pode contribuir com o setor logístico?**
+
+O modal rodoviário é o mais utilizado no país para a movimentação de cargas.
+O primeiro benefício da expansão das ferrovias no Brasil, com a melhoria desse meio de transporte, o país passa a ser menos "refém" do modal rodoviário e de todos os fatores macroambientais inerentes a ele. 
+Segundo a própria ANTF, mesmo com investimentos escassos, 95% dos minérios do nosso país chegam aos portos por trilhos. 
+Essa eficiência poderia ser a mesma para outros tipos de cargas, dando mais opções para as empresas e desafogando o trânsito em estradas e pistas do Brasil. 
+Com um novo modal trabalhando em alta eficiência, o serviço logístico só tende a melhorar.
+Os fabricantes passam a receber suas matérias-primas em menos tempo e os clientes são contemplados com experiências diferenciadas. 
+Vale notar, ainda, que não é só o modal ferroviário que se beneficia dessa expansão: com uma melhor integração de variados modais, todos saem ganhando, já que tempo e custos passam a ser diminuídos no processo. 
+
+
+**Quais são os benefícios de uma integração das ferrovias com os outros modais?**
+
+Com uma perfeita integração entre os modais viário, ferroviário e aquaviário, todos os agentes envolvidos na cadeia logística tendem a se beneficiar com serviços de maior qualidade e custos reduzidos. 
+Por exemplo: muitos caminhões precisam fazer várias viagens para movimentar cargas mais extensas. Isso seria otimizado se as ferrovias no Brasil recebessem melhorias, já que um vagão de trem suporta muito mais peso que um caminhão, possibilitando com que determinadas cargas sejam transportadas em apenas uma viagem ferroviária, contra uma série de viagens ou veículos de outros modais. 
+
+Assim, sempre que precisar transportar um volume muito grande, a empresa ou o contratante poderia optar pela malha ferroviária, ou pela integração desta com os outros modais, selecionando as rotas e possibilidades que mais se adequam às suas necessidades, possibilidade de gastos e urgência de entrega. 
+Além da escolha do modal mais apropriado para cada situação, a expansão férrea traz outras vantagens, entre elas: 
+*•	Redução de custos; *
+*•	Diminuição da emissão de poluentes; *
+*•	Redução de acidentes nas estradas. *
+
+Desta forma, pode-se verificar que o investimento nas ferrovias no Brasil é uma iniciativa que só traz benefícios para o país, para as empresas e para os usuários em geral. 
+Muitos países europeus devem o seu crescimento econômico ao eficiente trabalho realizado com a ajuda do modal ferroviário. Assim, mesmo com décadas de atraso, também poderíamos colher bons frutos com a expansão de nossa malha, desde que feita de maneira inteligente e planejada, visando o benefício do setor logístico e da econômica brasileira como um todo. 
+Com isso em mente, o modal ferroviário só tende a agregar ao nosso país. 
+
+Fonte:(https://digital.intermodal.com.br/modais/ferrovias-no-brasil-avancos-e-obstaculos-para-esse-meio-de-transporte-em-nosso-territorio)
+
 
 
 **🎯 OBJETIVO**
-Escolha do produto e malha ferroviária regional que impulsiona a economia local e agrega valor ao PIB
+
+Identificar Fatores que influenciam no transporte ferroviário regional que impulsionam a economia local e agregma valor ao PIB
  
 
 Desenvolvimento do projeto no **JIRA**, [clique aqui!](https://apilog.atlassian.net/jira/software/projects/PFRRV/boards/2/backlog)
 
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/fb8c60eb-0b94-45de-b457-3410808d323a)
+
 
 Descrição: Estudo da Cadeia Logística RMVALE no transporte ferroviário, concessionária RMS Malha sudeste, especificamente São Paulo.
 
@@ -52,25 +143,18 @@ Tecnologias utilizadas: Phyton, Jira e Github.
 
 Desafios: Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
 
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/cdec5090-121a-4b9f-b16f-ac80fa55e876)
 
 
 
-Power BI do transporte ferroviário de celulose, Origem: São Silvestre/Jacareí Destino: Porto de Santos no ano de **2021**.
 
-![print 2021](https://github.com/SilveiraEliane/API-LOG/assets/134539033/2069ce12-9f41-47b8-9715-4ea81e4c72bf)
-
-Power BI do transporte ferroviário de celulose, Origem: São Silvestre/Jacareí Destino: Porto de Santos no ano de **2022**.
-
-![print ano 2022](https://github.com/SilveiraEliane/API-LOG/assets/134539033/e2c417e7-1d61-4005-a147-183d2445a06c)
 
 
                 **Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.**
 
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/6252938f-e6af-4669-b656-b329de224d56)
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/f5f02121-cc04-4689-ad54-82d708b2874d)
+
 
 💻 **TECNOLOGIAS**
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/8d08ff10-fc87-40a2-9228-30e6676ef8f5)
 
 
 
