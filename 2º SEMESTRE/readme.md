@@ -64,7 +64,9 @@ O alcance das ferrovias no Brasil ainda é irrisório quando considerarmos o tam
 
 
 Também ficamos muito atrás em comparação com países europeus de grandes dimensões. Na Rússia, que também tem proporções continentais, o modal ferroviário corresponde a 81% de toda a carga de transportes do país. 
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/12351dca-426f-4920-8484-aa43c6a3b57b)
 
+Fonte da imagem: (https://www.antf.org.br/informacoes-gerais/)
 
 **Mas por que isso acontece? Por que a malha ferroviária no Brasil é tão pequena?**
 
@@ -81,6 +83,9 @@ Todavia, foi entre as décadas de 60 e 80, durante o regime militar, que a malha
 Os militares acreditavam que o investimento nas ferrovias no Brasil era desnecessário; então, cortaram gastos e priorizaram somente o modal rodoviário. 
 O que resultou numa malha bastante sucateada, ineficiente e, em muitos casos, totalmente inútil à época da privatização [1997], quando as concessionárias começaram suas operações".
 
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/0c8e4dbb-6a44-4e3c-8b54-70f9161c27a5)
+
+Fonte da imagem: (https://www.antf.org.br/informacoes-gerais/)
 
 **O que pode ser feito para melhorar o transporte ferroviário no Brasil?**
 
@@ -133,15 +138,52 @@ Fonte:(https://digital.intermodal.com.br/modais/ferrovias-no-brasil-avancos-e-ob
 Identificar Fatores que influenciam no transporte ferroviário regional que impulsionam a economia local e agregma valor ao PIB
  
 
-Desenvolvimento do projeto no **JIRA**, [clique aqui!](https://apilog.atlassian.net/jira/software/projects/PFRRV/boards/2/backlog)
+
+**🔨FUNCIONALIDADE DO PROJETO**
+
+*Funcionalidade 1*: Estudo da Malha Ferroviária no Brasil;
+
+*Funcionalidade 2*: Escolha da empresa concessionária;
+
+*Funcionalidade 3*: Escolha e detalhamento da malha ferroviária;
+
+*Funcionalidade 4*: Escolha e análise do produto a ser estudado;
+
+*Funcionalidade 5*: Análise da exportação do produto;
+
+*Funcionalidade 6*: Estudo das variáveis de influência na exportação de celulose;
+
+
+📖**DESCRIÇÃO DO PROJETO**:
+
+Estudo da Cadeia Logística RMVALE no transporte ferroviário, concessionária MRS Malha sudeste, especificamente São Paulo.
+
+
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/823d0cad-51f2-4275-91ed-46253a27bec4)
+
+Exportação de Celulose e papel
+Mensal 2008-2023 Milhões US$
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/2eab20e8-2c76-4c1e-b7d2-417da3f51472)
+
+Exportação de Celulose e papel
+Anual 1996-2023 Milhões US$
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/b782139e-9837-471e-836e-1931a04d91f8)
+
+![variáveis](https://github.com/SilveiraEliane/API-LOG/assets/134539033/04a22ab0-8568-4079-b2d0-660c5a2a6d7d)
+
+
+💻**TECNOLOGIAS UTILIZADAS:** 
+
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/3e8ceb4c-e51b-442b-9c61-a2e86e7ad2aa)
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/ff5260df-7e61-4a59-8925-3d2943d646a3)
+![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/42b02302-ca4a-4fb4-b6d9-a248343703b1)
 
 
 
-Descrição: Estudo da Cadeia Logística RMVALE no transporte ferroviário, concessionária RMS Malha sudeste, especificamente São Paulo.
 
-Tecnologias utilizadas: Phyton, Jira e Github.
+👨‍💻**Desafios:**
 
-Desafios: Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
+Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
 
 
 
@@ -153,8 +195,6 @@ Desafios: Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
 
 
 
-💻 **TECNOLOGIAS**
-![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/8d08ff10-fc87-40a2-9228-30e6676ef8f5)
 
 
 
