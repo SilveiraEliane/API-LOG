@@ -77,6 +77,8 @@ Anual 1996-2023 Milhões US$
 ![variáveis](https://github.com/SilveiraEliane/API-LOG/assets/134539033/04a22ab0-8568-4079-b2d0-660c5a2a6d7d)
 
 
+![Captura de Tela (10)](https://github.com/SilveiraEliane/API-LOG/assets/134539033/6b061d3e-131c-427d-a1d1-b466f7d8083c)
+
 
 💻**TECNOLOGIAS UTILIZADAS:** 
 
