@@ -29,7 +29,9 @@
 
 📑BackLog;
 
-📑Resultado das Análises.
+📑Resultado das Análises;
+
+📑Curiosidades do Transporte Ferroviário no Brasil.
 
 
 🚀**HISTÓRIA DO PROJETO**
@@ -85,16 +87,16 @@ Anual 1996-2023 Milhões US$
 
 
 
-📊**Metodologia Utilizada**
+📊**METODOLOGIA UTILIZADA**
 
 ![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/1a8837d6-b45f-4d79-bd4d-d4b0d462c336)
 ![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/339ebb44-9a16-4b06-a5ee-e8fa33bd3f02)
 ![image](https://github.com/SilveiraEliane/API-LOG/assets/134539033/2856ee21-b2ec-4785-a980-4b0e8e7968a5)
 
 
-                **Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.**
+**Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.**
                 
-📊**Backlog**
+📊**BACKLOG**
 
 ![Captura de Tela (4)](https://github.com/SilveiraEliane/API-LOG/assets/134539033/983cd81b-8fe0-454f-a2e2-ee2b8b536a16)
 
@@ -105,7 +107,7 @@ Anual 1996-2023 Milhões US$
 ![Captura de Tela (8)](https://github.com/SilveiraEliane/API-LOG/assets/134539033/d23596c4-14d8-4e22-b4c7-04829ef5564c)
 
 
-👨‍💻**Desafios:**
+👨‍💻**DESAFIOS:**
 
 Aprender ferramentas antes desconhecidas pelo grupo e desenvolvê-las.
 
