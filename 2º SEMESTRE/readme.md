@@ -27,6 +27,8 @@
 
 📑Metodologias Utilizadas;
 
+📑BackLog;
+
 📑Resultado das Análises.
 
 
@@ -91,6 +93,17 @@ Anual 1996-2023 Milhões US$
 
 
                 **Apresentação do 5W2H Especialmente para o Professor Rubens Barreto.**
+                
+📊**Backlog**
+
+![Captura de Tela (4)](https://github.com/SilveiraEliane/API-LOG/assets/134539033/983cd81b-8fe0-454f-a2e2-ee2b8b536a16)
+
+
+![Captura de Tela (6)](https://github.com/SilveiraEliane/API-LOG/assets/134539033/a6b4c1d2-f489-4f7b-a366-ca4193e91599)
+
+
+![Captura de Tela (8)](https://github.com/SilveiraEliane/API-LOG/assets/134539033/d23596c4-14d8-4e22-b4c7-04829ef5564c)
+
 
 👨‍💻**Desafios:**
 
